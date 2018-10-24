@@ -1,5 +1,20 @@
 # AnalizadorLexico
 
+Grupo: 1Il-141
+
+Integrantes Anaya, Daniel 8-917-1641
+
+Arrocha, Ariel 8-920-186
+
+Díaz, Rosa 8-908-1221
+
+González, Aarón 8-889-2342
+
+Ince, Abraham 8-914-1350
+
+Pérez, Efraín 8-902-309
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.3.
 
 ## Development server
